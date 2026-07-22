@@ -33,6 +33,10 @@ Both with live confidence scores, then writes everything to a new output video.
 
 The output video shows real detection results on real match footage — every player and the ball tracked frame by frame.
 
+
+https://github.com/user-attachments/assets/9ebbeac0-152b-4e16-a733-8914283aa4e7
+
+
 ## Quick Start
 
 ```bash
